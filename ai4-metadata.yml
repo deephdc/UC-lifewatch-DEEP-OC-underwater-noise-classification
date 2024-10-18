@@ -8,7 +8,7 @@ dates:
   created: '2023-12-05'
   updated: '2024-10-09'
 links:
-  source_code: http://github.com/lifewatch/underwater-noise-classification
+  source_code: https://github.com/deephdc/UC-lifewatch-DEEP-OC-underwater-noise-classification
   docker_image: deephdc/deep-oc-underwater-noise-classification
   dataset_url: https://research.google.com/audioset
   training_files_url: https://cephrgw01.ifca.es:8080/swift/v1/underwater-noise-classification/
